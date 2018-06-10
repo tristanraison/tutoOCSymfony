@@ -9,4 +9,5 @@ parameters:
     mailer_host: 127.0.0.1
     mailer_user: null
     mailer_password: null
-    secret: 94e1f0834615d402e85d9d4c894145ad34dc9db4
+    secret: 701306b03b1e78a033465957a9b53ff441aa9bdf
+    app_webmaster: traison
